@@ -9,8 +9,8 @@ export default class Footer extends Component {
                 <Container>
                     <Row>
                         <Col> 
-                            <h2> 2020 &copy; A.Petrechko </h2>
-                            <h5> All rights reserved </h5> 
+                            <p> 2020 &copy; A. Petrechko </p>
+                            <p> All rights reserved </p> 
                         </Col>
                         <Col> 
                             <p> Корисні посилання </p>
